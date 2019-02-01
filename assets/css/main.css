@@ -2977,6 +2977,17 @@ input, select, textarea {
 		  float:right;
 		 }
 
+		 #header ul.navbar .symbol {
+			 margin-right: 0.65em;
+		 }
+
+			 #header ul.navbar .symbol img {
+				 display: inline-block;
+				 width: 1.75em;
+				 height: 1.75em;
+			 }
+
+
 /* Menu */
 
 	#wrapper {
